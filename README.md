@@ -10,6 +10,7 @@ x = [1 1/2]';
 t = omp(x, dictionary, 2);
 output_x = D * t; 
 ```
+This Matlab code has been validated in sparse spectral analysis. It can handle dictionaries with complex number.
 
 ### References
 [Matching Pursuit](http://en.wikipedia.org/wiki/Matching_pursuit)

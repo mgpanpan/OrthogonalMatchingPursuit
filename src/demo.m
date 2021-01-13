@@ -5,4 +5,4 @@ treshold = 0.0001;
 
 t = mp(x,D,treshold,0);
 
-
+t2 = omp(x,D,3);
